@@ -1,32 +1,3 @@
-# Folder Structure
-src/
-│
-├── Assests/            # Static data and assets
-│   └── data.json       # Product data file
-│
-├── Components/         # Reusable UI components
-│   ├── Filter/         # Filter component
-│   ├── ProductCard/    # Product component
-│   ├── Header/         # Header component
-│   └── UI/             # Generic components like buttons
-│
-├── pages/              # Application pages
-│   ├── StorePage/      # Store listing page
-│   ├── CheckoutPage/   # Checkout page
-│   └── Confirmation/   # Confirmation page
-│
-├── Hooks/             # Debounce logic
-│     └── data.json    # Custom Hook
-|
-|
-├── types/              # TypeScript types and enums
-│   └── types.ts        # Type definitions
-│   └── enums.ts        # Enums for sorting logic
-│
-└── App.tsx             # Main App component
-
-
-
 # Prerequisites
 Before starting, ensure you have the following installed on your machine:
 
