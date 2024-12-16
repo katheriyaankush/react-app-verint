@@ -1,0 +1,16 @@
+.filter-search-input {
+    width: 25%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    height: 25px;
+  }
+  
+  .filter{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+  }
+ 
+  .filter-right{
+    margin-left: 40px;
+  }

@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung Galaxy S24 Phantom Black ",
+        "description": "Experience next-level innovation with the Samsung Galaxy S24 Ultra 5G. Boasting a sleek, premium design in Phantom Black, this flagship device is crafted for performance and style. The 6.8-inch Dynamic AMOLED 2X display delivers vivid colors and smooth scrolling with its 120Hz refresh rate. Powered by the cutting-edge Snapdragon 8 Gen 2 processor.",
+        "suggestedPrice": 96000,
+        "actualPrice": 43000,
+        "discount": 50,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 2,
+        "name": "Dell XPS 13 9315 Laptop - Intel Core i7, 16GB RAM, 512GB SSD, Platinum Silver",
+        "description": "The Dell XPS 13 9315 redefines portability and performance, making it a perfect companion for both work and play. Encased in a sleek, ultra-light platinum silver body, this laptop combines cutting-edge technology with sophisticated style. Its 13.4-inch InfinityEdge display offers stunning visuals with an immersive edge-to-edge screen, ideal for streaming, editing, and more",
+        "suggestedPrice": 80000,
+        "actualPrice": 50000,
+        "discount": 40,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 3,
+        "name": "Apple iPad Pro 12.9-inch (6th Gen) - 256GB, Wi-Fi, Space Gray",
+        "description": "Unlock unparalleled creativity and productivity with the Apple iPad Pro 12.9-inch, powered by the advanced M2 chip. Whether you're designing, editing, streaming, or gaming, this tablet delivers unmatched speed and responsiveness. Its stunning Liquid Retina XDR display with ProMotion technology provides vivid colors, sharp details, and smooth performance, perfect for work or entertainment.",
+        "suggestedPrice": 145000,
+        "actualPrice": 110000,
+        "discount": 25,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 4,
+        "name": "Nike Air Zoom Pegasus 39 Running Shoes - Men’s, Black/White",
+        "description": "Take your running game to the next level with the Nike Air Zoom Pegasus 39. Designed for runners of all levels, this iconic shoe offers unmatched comfort and performance. Its lightweight mesh upper ensures optimal airflow to keep your feet cool, while Flywire technology provides a secure and supportive fit during every stride.",
+        "suggestedPrice": 8800,
+        "actualPrice": 4400,
+        "discount": 50,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 5,
+        "name": "Nike Men’s Dri-FIT Legend Training Tee - Black",
+        "description": "The standard fit and classic crew neck design provide a relaxed, easy-to-wear feel, while the iconic Nike swoosh logo adds a touch of sporty style. Built for both function and fashion, this tee is perfect for active lifestyles.",
+        "suggestedPrice": 1140,
+        "actualPrice": 672,
+        "discount": 41,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 6,
+        "name": "Levi’s 501 Original Fit Jeans - Men’s, Medium Wash",
+        "description": "The Levi’s 501 Original Fit Jeans are the timeless classic every wardrobe needs. With a straight-leg cut and mid-rise, these jeans provide a relaxed, comfortable fit that’s perfect for everyday wear. The medium wash denim gives them a vintage, lived-in look, ideal for pairing with everything from graphic tees to button-up shirts.",
+        "suggestedPrice": 9700,
+        "actualPrice": 4947,
+        "discount": 49,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 7,
+        "name": "Nike Heritage86 Cap - Adjustable, Black",
+        "description": "The adjustable strap at the back ensures a personalized fit, while the embroidered Nike swoosh on the front adds a sleek touch of brand appeal. Whether you’re heading to the gym, running errands, or enjoying the outdoors, the Heritage86 cap is a versatile essential.",
+        "suggestedPrice": 830,
+        "actualPrice": 647,
+        "discount": 22,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 8,
+        "name": "Elegant Solitaire Diamond Ring - 14K White Gold",
+        "description": "Celebrate timeless elegance with this Solitaire Diamond Ring, a symbol of love and sophistication. Featuring a sparkling 0.50-carat round-cut diamond, this ring is set in 14K white gold, providing a sleek and modern touch. Its minimalist design highlights the brilliance of the diamond, making it the perfect choice for engagements, anniversaries, or as a meaningful gift.",
+        "suggestedPrice": 10600,
+        "actualPrice": 59360,
+        "discount": 44,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 9,
+        "name": "Adidas Ultraboost 22 Sneakers",
+        "description": "Step up your footwear game with the Adidas Ultraboost 22 Sneakers, designed for ultimate comfort and performance. Featuring a responsive Boost midsole, these sneakers provide unmatched energy return with every stride. The Primeknit upper adapts to your foot for a snug and supportive fit, making them ideal for both athletic and everyday wear.",
+        "suggestedPrice": 10000,
+        "actualPrice": 6100,
+        "discount": 39,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 10,
+        "name": "Samsung Galaxy S23 Ultra 5G - 512GB, Phantom Black ",
+        "description": "Experience next-level innovation with the Samsung Galaxy S23 Ultra 5G. Boasting a sleek, premium design in Phantom Black, this flagship device is crafted for performance and style. The 6.8-inch Dynamic AMOLED 2X display delivers vivid colors and smooth scrolling with its 120Hz refresh rate. Powered by the cutting-edge Snapdragon 8 Gen 2 processor.",
+        "suggestedPrice": 96000,
+        "actualPrice": 43000,
+        "discount": 50,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 11,
+        "name": "Dell Laptop - Intel Core i7, 16GB RAM, 512GB SSD, Platinum Silver",
+        "description": "The Dell redefines portability and performance, making it a perfect companion for both work and play. Encased in a sleek, ultra-light platinum silver body, this laptop combines cutting-edge technology with sophisticated style. Its 13.4-inch InfinityEdge display offers stunning visuals with an immersive edge-to-edge screen, ideal for streaming, editing, and more",
+        "suggestedPrice": 80000,
+        "actualPrice": 50000,
+        "discount": 40,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 12,
+        "name": "Apple iPad Pro 12.9-inch (6th Gen) - 256GB, Wi-Fi, Space Gray",
+        "description": "Unlock unparalleled creativity and productivity with the Apple iPad Pro 12.9-inch, powered by the advanced M2 chip. Whether you're designing, editing, streaming, or gaming, this tablet delivers unmatched speed and responsiveness. Its stunning Liquid Retina XDR display with ProMotion technology provides vivid colors, sharp details, and smooth performance, perfect for work or entertainment.",
+        "suggestedPrice": 145000,
+        "actualPrice": 110000,
+        "discount": 25,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 13,
+        "name": "Elegant Solitaire Golden Ring - 14K White Gold",
+        "description": "Celebrate timeless elegance with this Solitaire Golden Ring, a symbol of love and sophistication. Featuring a sparkling 0.50-carat round-cut diamond, this ring is set in 14K white gold, providing a sleek and modern touch. Its minimalist design highlights the brilliance of the diamond, making it the perfect choice for engagements, anniversaries, or as a meaningful gift.",
+        "suggestedPrice": 10600,
+        "actualPrice": 59360,
+        "discount": 44,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 14,
+        "name": "Nike Air Jorden Shoes - Men’s, Black/White",
+        "description": "Take your running game to the next level with the Nike Air Jorden. Designed for runners of all levels, this iconic shoe offers unmatched comfort and performance. Its lightweight mesh upper ensures optimal airflow to keep your feet cool, while Flywire technology provides a secure and supportive fit during every stride.",
+        "suggestedPrice": 8800,
+        "actualPrice": 4400,
+        "discount": 50,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 15,
+        "name": "Nike Men’s Dri-FIT Legend Training Tee - Black",
+        "description": "The standard fit and classic crew neck design provide a relaxed, easy-to-wear feel, while the iconic Nike swoosh logo adds a touch of sporty style. Built for both function and fashion, this tee is perfect for active lifestyles.",
+        "suggestedPrice": 1140,
+        "actualPrice": 672,
+        "discount": 41,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 16,
+        "name": "Levi’s 501 Original Fit Jeans - Men’s, Medium Wash",
+        "description": "The Levi’s 501 Original Fit Jeans are the timeless classic every wardrobe needs. With a straight-leg cut and mid-rise, these jeans provide a relaxed, comfortable fit that’s perfect for everyday wear. The medium wash denim gives them a vintage, lived-in look, ideal for pairing with everything from graphic tees to button-up shirts.",
+        "suggestedPrice": 9700,
+        "actualPrice": 4947,
+        "discount": 49,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 17,
+        "name": "Nike Cap - Adjustable, Black",
+        "description": "The adjustable strap at the back ensures a personalized fit, while the embroidered Nike swoosh on the front adds a sleek touch of brand appeal. Whether you’re heading to the gym, running errands, or enjoying the outdoors, the Heritage86 cap is a versatile essential.",
+        "suggestedPrice": 830,
+        "actualPrice": 647,
+        "discount": 22,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 18,
+        "name": "Gold Ring - 14K White Gold",
+        "description": "Celebrate timeless elegance with this Solitaire Diamond Ring, a symbol of love and sophistication. Featuring a sparkling 0.50-carat round-cut diamond, this ring is set in 14K white gold, providing a sleek and modern touch. Its minimalist design highlights the brilliance of the diamond, making it the perfect choice for engagements, anniversaries, or as a meaningful gift.",
+        "suggestedPrice": 10600,
+        "actualPrice": 59360,
+        "discount": 44,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 19,
+        "name": "Adidas Sneakers Running Black Shoes",
+        "description": "Step up your footwear game with the Adidas Ultraboost 22 Sneakers, designed for ultimate comfort and performance. Featuring a responsive Boost midsole, these sneakers provide unmatched energy return with every stride. The Primeknit upper adapts to your foot for a snug and supportive fit, making them ideal for both athletic and everyday wear.",
+        "suggestedPrice": 10000,
+        "actualPrice": 6100,
+        "discount": 39,
+        "image": "https://picsum.photos/500"
+    },
+    {
+        "id": 20,
+        "name": "Adidas Bag",
+        "description": "Step up your footwear game with the Adidas Ultraboost 22 Sneakers, designed for ultimate comfort and performance. Featuring a responsive Boost midsole, these sneakers provide unmatched energy return with every stride. The Primeknit upper adapts to your foot for a snug and supportive fit, making them ideal for both athletic and everyday wear.",
+        "suggestedPrice": 10000,
+        "actualPrice": 6100,
+        "discount": 39,
+        "image": "https://picsum.photos/500"
+    }
+]

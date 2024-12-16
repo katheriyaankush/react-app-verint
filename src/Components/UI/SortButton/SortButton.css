@@ -1,0 +1,23 @@
+.sort-button {
+  background-color: gray;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+  font-size: 8px;
+  margin: 4px;
+}
+
+.sort-button:hover {
+  background-color: #e0e0e0;
+}
+
+.sort-button.active {
+  background-color: black;
+  /* Active button background */
+  color: white;
+  /* Active button text color */
+  border-color: black;
+  /* Active button border */
+}

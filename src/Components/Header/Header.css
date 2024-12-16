@@ -1,0 +1,48 @@
+.header {
+  position: fixed;
+  top: 0;
+  background-color: black;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header p.logo {
+  font-size: 17px;
+  font-weight: bold;
+  color: white;
+  margin-left: 10px;
+}
+
+.header p:hover {
+  color: #cdcccc
+}
+
+.header-right {
+  font-size: 17px;
+  font-weight: bold;
+  color: white;
+  margin-right: 40px;
+  text-align: right;
+  display: flex;
+  gap: 40px;
+}
+
+.header-button-home {
+  background-color: transparent;
+  font-size: 17px;
+  font-weight: bold;
+  color: white;
+  height: 30px;
+}
+
+.header-button-home:hover {
+  background-color: transparent;
+  color: #cdcccc
+}
+
+.header-title {
+  width: 100px;
+  text-align: left;
+}
